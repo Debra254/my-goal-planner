@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.52222c0c.css",
-    "main.js": "/static/js/main.c0bf7c84.js",
-    "index.html": "/index.html",
-    "main.52222c0c.css.map": "/static/css/main.52222c0c.css.map",
-    "main.c0bf7c84.js.map": "/static/js/main.c0bf7c84.js.map"
+    "main.css": "/my-goal-planner/static/css/main.52222c0c.css",
+    "main.js": "/my-goal-planner/static/js/main.c0bf7c84.js",
+    "index.html": "/my-goal-planner/index.html",
+    "main.52222c0c.css.map": "/my-goal-planner/static/css/main.52222c0c.css.map",
+    "main.c0bf7c84.js.map": "/my-goal-planner/static/js/main.c0bf7c84.js.map"
   },
   "entrypoints": [
     "static/css/main.52222c0c.css",
